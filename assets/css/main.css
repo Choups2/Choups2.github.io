@@ -2600,7 +2600,7 @@
 
 /* One */
 
-	#one:before {
+	#apropos:before {
 		background-image: url("../../images/banner.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
@@ -2785,7 +2785,7 @@
 
 		/* One */
 
-			#one:before {
+			#apropos:before {
 				height: 10em;
 			}
 
